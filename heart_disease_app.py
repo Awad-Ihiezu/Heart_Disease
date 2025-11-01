@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler
 import joblib
 import time
 
@@ -89,3 +88,4 @@ if st.button("🩺 Check Result"):
         st.balloons()
 
 st.caption("Developed by Group 12 — Insight Innovators 💡")
+
