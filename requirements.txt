@@ -1,5 +1,4 @@
 pandas
 joblib
 streamlit
-StandardScaler
 scikit-learn
